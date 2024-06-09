@@ -1,5 +1,5 @@
 # Awesome_Cheat_Sheets
-This is a list of my cheat sheets. I work in so many languages and tools that having quick reference is valuable. I try to strike a balance between enough depth to be useful for search, but enough brevity that it is quick to scan. Before diving back in to something, I scan the sheet in 1 minute to catch my bearings.
+This is a list of my cheat sheets. I work in so many languages and tools that having quick reference is valuable. I try to strike a balance between enough depth to be useful for search, but enough brevity that it is quick to scan. Before diving back in to something, I scan the sheet in for a few minutes to catch my bearings, and keep it open for quick reference while I am working.
 
 Maybe these will help yo us well. Enjoy.
 
