@@ -28,14 +28,16 @@ _Doing this promotes your active recall, a powerful memory retention and recall 
 * [Ruby Scan Sheet](https://gist.github.com/JettIsOnTheNet/ea7d48d1474414f350620bc27af436a3)
 * [Swift Scan Sheet](https://gist.github.com/JettIsOnTheNet/81b8c93547a0a8d2ef466b22c8d7ea5e)
 
-# Full sheets for Languages
+# Full reference Cheat Sheets
+
+## Languages
 * [Typescript Cheat Sheet](https://gist.github.com/JettIsOnTheNet/ac2dc182e716df5bb75bccdb9a972e2f)
 * [Lua Cheat Sheet](https://gist.github.com/JettIsOnTheNet/b7472ee8b1f5b324c498302b0f61957d)
 
-# Services
+## Services
 * [Github Cheat Sheet](https://gist.github.com/JettIsOnTheNet/c39b718af1c916462f13256d8e9e1484)
 
-# Tools
+## Tools
 * [Conda Cheat Sheet](https://gist.github.com/JettIsOnTheNet/992e1713001f5d2a433832a02d167684)
 
 # Studies
