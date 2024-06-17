@@ -3,6 +3,10 @@ When juggling languages and tools, having quick references like these is key. Th
 
 [_For more info on how these methods enhance memory and recall, there are additional resources and medical studies linked below_](./#studies)
 
+<p align="center">
+  <img src="https://github.com/JettIsOnTheNet/Awesome-Cheat-Sheets-for-Memory-Hacking/blob/main/ghostinshell.jpg?raw=true" alt="Memory Hacking"/>
+</p>
+
 Before diving back into an old project or start something new:
 
   1. Set a timer on your phone for 1 or 2 minutes.
