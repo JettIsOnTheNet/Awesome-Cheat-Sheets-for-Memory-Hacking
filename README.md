@@ -18,7 +18,7 @@ Before diving back into an old project or start something new:
 
 _Doing this promotes your active recall, a powerful memory retention and recall technique._
 
-# Scan sheets
+## Scan sheets
 * [Go Scan Sheet](https://gist.github.com/JettIsOnTheNet/de2f8b1192de4f7da83b0007825182cd)
 * [Haskell Scan Sheet](https://gist.github.com/JettIsOnTheNet/121def440a4f2fa5283ffd418d57c5af)
 * [Javascript Scan Sheet](https://gist.github.com/JettIsOnTheNet/1d03533dc219077b8f018b7259e7451a)
@@ -28,19 +28,19 @@ _Doing this promotes your active recall, a powerful memory retention and recall 
 * [Ruby Scan Sheet](https://gist.github.com/JettIsOnTheNet/ea7d48d1474414f350620bc27af436a3)
 * [Swift Scan Sheet](https://gist.github.com/JettIsOnTheNet/81b8c93547a0a8d2ef466b22c8d7ea5e)
 
-# Full reference Cheat Sheets
+## Full reference Cheat Sheets
 
-## Languages
+### Languages
 * [Typescript Cheat Sheet](https://gist.github.com/JettIsOnTheNet/ac2dc182e716df5bb75bccdb9a972e2f)
 * [Lua Cheat Sheet](https://gist.github.com/JettIsOnTheNet/b7472ee8b1f5b324c498302b0f61957d)
 
-## Services
+### Services
 * [Github Cheat Sheet](https://gist.github.com/JettIsOnTheNet/c39b718af1c916462f13256d8e9e1484)
 
-## Tools
+### Tools
 * [Conda Cheat Sheet](https://gist.github.com/JettIsOnTheNet/992e1713001f5d2a433832a02d167684)
 
-# Studies
+#### Studies
 * <span id="1">[1]</span> Hippocampo-cortical circuits for selective memory encoding, routing, and replay (Harvey, Robinson, Liu, et al.) [2023](https://doi.org/10.1016/j.neuron.2023.04.015)
 * <span id="2">[2]</span> Consolidation of cellular memory representations in superficial neocortex (Esteves, Chang, Neumann, McNaughton) [2023](https://doi.org/10.1016/j.neuron.2023.04.015)
 * <span id="3">[3]</span> Consolidation of human skill linked to waking hippocampo-neocortical replay (Bush, Claudino, Quenten, et al.) [2021](https://doi.org/10.1016/j.celrep.2021.109193)
