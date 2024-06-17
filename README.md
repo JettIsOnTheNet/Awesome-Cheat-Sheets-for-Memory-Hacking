@@ -18,10 +18,6 @@ Before diving back into an old project or start something new:
 
 _Doing this promotes your active recall, a powerful memory retention and recall technique._
 
-# Languages
-* [Typescript Cheat Sheet](https://gist.github.com/JettIsOnTheNet/ac2dc182e716df5bb75bccdb9a972e2f)
-* [Lua Cheat Sheet](https://gist.github.com/JettIsOnTheNet/b7472ee8b1f5b324c498302b0f61957d)
-
 # Scan sheets
 * [Go Scan Sheet](https://gist.github.com/JettIsOnTheNet/de2f8b1192de4f7da83b0007825182cd)
 * [Haskell Scan Sheet](https://gist.github.com/JettIsOnTheNet/121def440a4f2fa5283ffd418d57c5af)
@@ -31,6 +27,10 @@ _Doing this promotes your active recall, a powerful memory retention and recall 
 * [PHP Scan Sheet](https://gist.github.com/JettIsOnTheNet/bb2dce44a5dc31573ae4ceb18276ea08)
 * [Ruby Scan Sheet](https://gist.github.com/JettIsOnTheNet/ea7d48d1474414f350620bc27af436a3)
 * [Swift Scan Sheet](https://gist.github.com/JettIsOnTheNet/81b8c93547a0a8d2ef466b22c8d7ea5e)
+
+# Full sheets for Languages
+* [Typescript Cheat Sheet](https://gist.github.com/JettIsOnTheNet/ac2dc182e716df5bb75bccdb9a972e2f)
+* [Lua Cheat Sheet](https://gist.github.com/JettIsOnTheNet/b7472ee8b1f5b324c498302b0f61957d)
 
 # Services
 * [Github Cheat Sheet](https://gist.github.com/JettIsOnTheNet/c39b718af1c916462f13256d8e9e1484)
