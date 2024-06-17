@@ -47,6 +47,6 @@ Before diving back into an old project or start something new:
 * <span id="4">[4]</span> Causal Contribution of Awake Post-encoding Processes to Episodic Memory Consolidation (Tambini, D’Esposito) [2020](https://doi.org/10.1016/j.cub.2020.06.063)
 * <span id="5">[5]</span> Cognitive Control: Brain Oscillations Coordinate Human Working Memory (Sauseng, Liesefeld) [2020](https://doi.org/10.1016/j.cub.2020.02.067)
 * <span id="6">[6]</span> Skill Memory: Mind the Ever-Decreasing Gap for Offline Processing (Robertson) [2019](https://doi.org/10.1016/j.cub.2019.03.007)
-* <span id="7">[7]</span> Post-learning Hippocampal Replay Selectively Reinforces Spatial Memory for Highly Rewarded Locations(Michon, Sun, Kim, et al) [2019](https://doi.org/10.1016/j.cub.2019.03.048)
+* <span id="7">[7]</span> Post-learning Hippocampal Replay Selectively Reinforces Spatial Memory for Highly Rewarded Locations (Michon, Sun, Kim, et al) [2019](https://doi.org/10.1016/j.cub.2019.03.048)
 * <span id="8">[8]</span> Memory Reconsolidation (Alberini, LeDoux) [2013](https://doi.org/10.1016/j.cub.2013.06.046)
 * <span id="9">[9]</span> New Insights in Human Memory Interference and Consolidation (Robertson) [2012](https://doi.org/10.1016/j.cub.2011.11.051)
