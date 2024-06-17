@@ -16,15 +16,13 @@ Before diving back into an old project or start something new:
   * DO NOT LOOK AT YOUR COMPUTER.
   * DO NOT SKIP THIS STEP.
 
-**Doing this promotes your active recall, a powerful memory retention and recall technique.**
+_Doing this promotes your active recall, a powerful memory retention and recall technique._
 
 # Languages
 * [Typescript Cheat Sheet](https://gist.github.com/JettIsOnTheNet/ac2dc182e716df5bb75bccdb9a972e2f)
 * [Lua Cheat Sheet](https://gist.github.com/JettIsOnTheNet/b7472ee8b1f5b324c498302b0f61957d)
 
 # Scan sheets
-# These are syntax scan sheets to read for 1 minute before you jump into a ground up project.
-# Doing this will significantly speed up memory retention
 * [Go Scan Sheet](https://gist.github.com/JettIsOnTheNet/de2f8b1192de4f7da83b0007825182cd)
 * [Haskell Scan Sheet](https://gist.github.com/JettIsOnTheNet/121def440a4f2fa5283ffd418d57c5af)
 * [Javascript Scan Sheet](https://gist.github.com/JettIsOnTheNet/1d03533dc219077b8f018b7259e7451a)
