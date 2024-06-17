@@ -7,7 +7,7 @@ When juggling languages and tools, having quick references like these is key. Th
   <img src="https://github.com/JettIsOnTheNet/Awesome-Cheat-Sheets-for-Memory-Hacking/blob/main/ghostinshell.jpg?raw=true" alt="Memory Hacking"/>
 </p>
 
-Before diving back into an old project or start something new:
+Before diving back into an old project or starting something new:
 
   1. Set a timer on your phone for 1 or 2 minutes.
   2. Start timer and spend that time with a sheet.
