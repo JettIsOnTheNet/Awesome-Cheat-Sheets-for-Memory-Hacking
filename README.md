@@ -1,5 +1,5 @@
 # Awesome Cheat Sheets for Memory Hacking
-When juggling languages and tools, having quick references like these is key. These are detailed enough to assist and initiate memory recall, concise enough for quick scanning. Along with active recall, flashcards, mnemonics, and spaced repetition also help in reinforcing and knowledge retreval, all of which these are for.
+When juggling languages and tools, having quick references like these is key. These are detailed enough to assist and initiate memory recall, concise enough for quick scanning. Along with active recall; flashcards, mnemonics, and spaced repetition also help in reinforcing and knowledge retreval, all of which these are for.
 
 [_For more info on how these methods enhance memory and recall, there are additional resources and medical studies linked below_](./#studies)
 
@@ -20,7 +20,7 @@ Before diving back into an old project or starting something new:
   * DO NOT LOOK AT YOUR COMPUTER.
   * DO NOT SKIP THIS STEP.
 
-_Doing this promotes your active recall, a powerful memory retention and recall technique._
+_Doing this promotes active recall, a powerful memory retention and recall technique._
 
 ## Scan sheets
 * [Go Scan Sheet](https://gist.github.com/JettIsOnTheNet/de2f8b1192de4f7da83b0007825182cd)
