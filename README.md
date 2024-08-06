@@ -20,8 +20,6 @@ Before diving back into an old project or starting something new:
   * DO NOT LOOK AT YOUR COMPUTER.
   * DO NOT SKIP THIS STEP.
 
-_Doing this promotes active recall, a powerful memory retention and recall technique._
-
 ## Scan sheets
 * [Go Scan Sheet](https://gist.github.com/JettIsOnTheNet/de2f8b1192de4f7da83b0007825182cd)
 * [Haskell Scan Sheet](https://gist.github.com/JettIsOnTheNet/121def440a4f2fa5283ffd418d57c5af)
